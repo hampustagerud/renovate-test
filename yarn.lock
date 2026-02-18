@@ -5,10 +5,10 @@ __metadata:
   version: 8
   cacheKey: 10c0
 
-"lodash@npm:4.1.0":
-  version: 4.1.0
-  resolution: "lodash@npm:4.1.0"
-  checksum: 10c0/1b2a8b1ed9681cbcece307721b61ec3825c137ed657f10c3a68882466bd59f99aeabf4cdc568c2d3d0603a94c404724b45b46c3837b8238b89e2bcd71d8911e2
+"lodash@npm:4.17.23":
+  version: 4.17.23
+  resolution: "lodash@npm:4.17.23"
+  checksum: 10c0/1264a90469f5bb95d4739c43eb6277d15b6d9e186df4ac68c3620443160fc669e2f14c11e7d8b2ccf078b81d06147c01a8ccced9aab9f9f63d50dcf8cace6bf6
   languageName: node
   linkType: hard
 
@@ -22,6 +22,6 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "test-package@workspace:packages/test"
   dependencies:
-    lodash: "npm:4.0.0"
+    lodash: "npm:4.17.23"
   languageName: unknown
   linkType: soft
