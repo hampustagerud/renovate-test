@@ -1,0 +1,10 @@
+{
+	"$schema": "https://json.schemastore.org/package.json",
+	"name": "renovate-test",
+	"workspaces": [
+		"packages/**"
+	],
+	"resolutions": {
+		"test-package/lodash": "4.1.0"
+	}
+}
